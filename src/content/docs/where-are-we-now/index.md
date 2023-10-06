@@ -11,19 +11,17 @@ sidebar:
   #   variant: tip
 ---
 
-# Where are we now
-
-### The Task
+## The Task
 
 Set down a three dimensional view of where the brand is now in the market, in people's minds and in relation to competition. This should show how the brand has been changing over time.
 
 This will involve auditing all available data and may point to areas where further research is required.
 
-### Delivery
+## Delivery
 
 Current Brand Situation
 
-### The Tools
+## The Tools
 
 - [Category/Market Dynamics Checklist](./category-checklist)
 - [Brand Performance Checklist](./brand-performance-checklist)

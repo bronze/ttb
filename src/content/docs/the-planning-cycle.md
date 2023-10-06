@@ -7,6 +7,10 @@ tableOfContents: false
 
 (Click in the each of the five boxes below to go to the corresponding chapters. All the pages in each chapter have the colour indicated in the boxes below)
 
+:::caution[Experimento]
+experimentando com animação em svg nos ícones
+:::
+
 <div class="w-full justify-center flex">
 <svg width="416px" height="482px" viewBox="0 0 416 482" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57 (83077) - https://sketch.com -->

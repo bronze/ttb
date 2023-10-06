@@ -3,6 +3,13 @@ title: TTB Overview
 tableOfContents: false
 ---
 
+<style>
+  img { width: 25vw; min-width: 250px; max-width: 50%! important; 	float: right; padding-left: 2rem;padding-bottom: 2rem; }
+  .content {overflow: hidden;}
+</style>
+
+![A rocketship in space](../../assets/J_Walter_Thompson.png)
+
 J. Walter Thompson is in the business of growing powerful brands with enduring, relevant and surprising relationship building ideas.
 
 These ideas, owned by the brand, have traditionally been expressed through advertising.
