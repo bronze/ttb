@@ -1,1 +1,0 @@
-# Category/Market Dynamics Checklist

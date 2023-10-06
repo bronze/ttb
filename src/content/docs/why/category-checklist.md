@@ -1,1 +1,0 @@
-# Category and Market Discoveries Checklist
